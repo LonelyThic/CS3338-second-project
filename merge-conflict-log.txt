@@ -1,0 +1,126 @@
+commit 2b31f7e69743013728efedbadaec6cc1bfebaa56
+Merge: 99cbd0d 402403b
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Sat Feb 8 10:19:15 2025 -0800
+
+    index
+
+commit 99cbd0db4d957ccd074c3ee351e57f6a0c0813a3
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Sat Feb 8 10:14:56 2025 -0800
+
+    commit
+
+commit 402403bde751dabb0aea3bdd0cc4a7fe015693b7
+Merge: 463a9cc 6efda45
+Author: Daniel Ng <danielgaong@gmail.com>
+Date:   Sat Feb 8 10:10:28 2025 -0800
+
+    Merge branch 'test'
+
+commit 1b353b0ac70ea299ade68ccf5cc72ef534516930
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Sat Feb 8 10:10:12 2025 -0800
+
+    commit my index.html
+
+commit 6efda4553391637044d7ae9c3a5adef9e2c69e86
+Author: Daniel Ng <danielgaong@gmail.com>
+Date:   Sat Feb 8 10:09:59 2025 -0800
+
+    REDOING MERGE CONFLICT
+
+commit 463a9cc0f9d41c421fa46253449762bfbbf76051
+Author: bleooo <120147045+bleooo@users.noreply.github.com>
+Date:   Sat Feb 8 10:07:32 2025 -0800
+
+    Delete merge-conflict-log.txt
+
+commit a04f99ba241d14ba450032135c4470b3fec56b1e
+Merge: 9ad84ed e1e24d2
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 14:13:44 2025 -0800
+
+    index.html
+
+commit 9ad84edaff0e903c06f81c56e854b60cd4abef37
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:56:59 2025 -0800
+
+    index.html
+
+commit c96eda2ba5aae1bee64052c842859f25d5b40bd2
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:50:13 2025 -0800
+
+    index.html
+
+commit e1e24d262c8ec6480a3fe6ec8bea31daa84b3c48
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 11:39:45 2025 -0800
+
+    added changes
+
+commit 85d09001ae696a91dd29a327d94c200ef3c2f883
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:38:40 2025 -0800
+
+    git_log.txt
+
+commit aa10c982e0a8935e45026160b3302398d85c88d1
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:32:28 2025 -0800
+
+    git_log.txt
+
+commit 4f9381c58fc504d156dea637cc413f440c9722a5
+Merge: 1ae84e2 1eff7e4
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:29:48 2025 -0800
+
+    index.html
+
+commit 1eff7e46391f45810e4e5b7a87be9fa9304114cc
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:27:33 2025 -0800
+
+    index.html
+
+commit 1ae84e2f01533dc688b2735b74f6d3ca5dbf4d43
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:26:16 2025 -0800
+
+    index.html
+
+commit 045af1e58dde1d91f38bbc9cfaeab204d98851f3
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:24:27 2025 -0800
+
+    README.md
+
+commit 9803996796bcbb6c416006ba403157cd4aaec6a8
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:20:07 2025 -0800
+
+    README.md
+
+commit f26cec26c446a3ace66e3ba46ba03900f1ff8c7d
+Merge: 1d2bfc0 aa3b2c9
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:16:41 2025 -0800
+
+    Merge pull request #1 from LonelyThic/info-fill
+    
+    fileld in index
+
+commit aa3b2c9103ffff201bcb6167ecb14eefd8676c22
+Author: LonelyThic <181782450+LonelyThic@users.noreply.github.com>
+Date:   Fri Jan 31 11:15:24 2025 -0800
+
+    fileld in index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
